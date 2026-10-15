@@ -30,7 +30,6 @@ a[aria-current="page"] {
   margin-left: auto;
 }
 
-/* Сброс списков */
 .header__links-list,
 .lots__card-list,
 .footer__menu-list,
@@ -40,7 +39,6 @@ a[aria-current="page"] {
   list-style: none;
 }
 
-/* Заголовок секции (общий для «Лоты» и «Об аукционе») */
 .section-title {
   font-size: 40px;
   font-weight: 700;
